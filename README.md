@@ -1,2 +1,2 @@
 # vipin
-all my website iam a learner iam fresher learning coading 
+Hi, I’m Vipin, a fresher learning coding. This repo contains my projects.
